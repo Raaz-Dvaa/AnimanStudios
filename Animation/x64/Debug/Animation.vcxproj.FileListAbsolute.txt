@@ -1,0 +1,4 @@
+C:\Users\senya\source\repos\Animation\Animation\x64\Debug\Animation.vcxproj.AssemblyReference.cache
+C:\Users\senya\source\repos\Animation\Animation\x64\Debug\Animation.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\senya\source\repos\Animation\Animation\x64\Debug\Animation.MyForm.resources
+C:\Users\senya\source\repos\Animation\Animation\x64\Debug\Animation.vcxproj.GenerateResource.cache
